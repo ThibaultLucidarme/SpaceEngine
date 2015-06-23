@@ -1,0 +1,13 @@
+- nbTurretFwdMax
+6
+- nbTurretBckwdMax
+6
+- nbTurretRMax
+6
+- nbTurretLMax
+1
+- inertia
+10
+- storage
+10
+- availableEquipementList

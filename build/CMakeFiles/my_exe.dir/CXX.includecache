@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/thibault/workspace/SpaceEngine/src/DataReader.hpp
+fstream
+-
+functional
+-
+iostream
+-
+memory
+-
+stdexcept
+-
+string
+-
+utility
+-
+vector
+-
+
+/home/thibault/workspace/SpaceEngine/src/Equipement.cpp
+Equipement.hpp
+/home/thibault/workspace/SpaceEngine/src/Equipement.hpp
+
+/home/thibault/workspace/SpaceEngine/src/Equipement.hpp
+Object.hpp
+/home/thibault/workspace/SpaceEngine/src/Object.hpp
+
+/home/thibault/workspace/SpaceEngine/src/InputManager.hpp
+DataReader.hpp
+/home/thibault/workspace/SpaceEngine/src/DataReader.hpp
+
+/home/thibault/workspace/SpaceEngine/src/Object.cpp
+Object.hpp
+/home/thibault/workspace/SpaceEngine/src/Object.hpp
+
+/home/thibault/workspace/SpaceEngine/src/Object.hpp
+InputManager.hpp
+/home/thibault/workspace/SpaceEngine/src/InputManager.hpp
+

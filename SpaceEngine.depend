@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1335589184 source:c:\users\thibault\documents\programmation\spaceengine\datareader.cpp
+	"DataReader.hpp"
+
+1335588029 c:\users\thibault\documents\programmation\spaceengine\datareader.hpp
+	<iostream>
+	<vector>
+	<fstream>
+	<cstring>
+
+1335519816 source:c:\users\thibault\documents\programmation\spaceengine\equipement.cpp
+	"Equipement.hpp"
+
+1335517547 c:\users\thibault\documents\programmation\spaceengine\equipement.hpp
+	"Object.hpp"
+
+1335521138 c:\users\thibault\documents\programmation\spaceengine\object.hpp
+	"InputManager.hpp"
+
+1335537148 c:\users\thibault\documents\programmation\spaceengine\inputmanager.hpp
+	"DataReader.hpp"
+
+1335537148 source:c:\users\thibault\documents\programmation\spaceengine\inputmanager.cpp
+	"InputManager.hpp"
+
+1335536849 source:c:\users\thibault\documents\programmation\spaceengine\object.cpp
+	"Object.hpp"
+
+1335537187 source:c:\users\thibault\documents\programmation\spaceengine\ship.cpp
+	"Ship.hpp"
+
+1335521100 c:\users\thibault\documents\programmation\spaceengine\ship.hpp
+	"Object.hpp"
+	"Equipement.hpp"
+	"Turret.hpp"
+
+1335448297 c:\users\thibault\documents\programmation\spaceengine\turret.hpp
+	"Equipement.hpp"
+
+1335447194 source:c:\users\thibault\documents\programmation\spaceengine\turret.cpp
+	"Turret.hpp"
+
+1335593256 source:c:\users\thibault\documents\programmation\spaceengine\main.cpp
+	"Battlecruiser.hpp"
+
+1335521656 c:\users\thibault\documents\programmation\spaceengine\battlecruiser.hpp
+	"Ship.hpp"
+
+1335521956 source:c:\users\thibault\documents\programmation\spaceengine\battlecruiser.cpp
+	"Battlecruiser.hpp"
+
